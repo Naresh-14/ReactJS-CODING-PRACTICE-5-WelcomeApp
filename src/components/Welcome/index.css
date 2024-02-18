@@ -1,0 +1,29 @@
+.container {
+  height: 100vh;
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-size: 34px;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  color: #f0bb03;
+}
+.description {
+  font-size: 24px;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  color: #fff;
+}
+.button {
+  width: 138px;
+  height: 38px;
+  color: #1e293b;
+  background-color: #fff;
+  border-width: 0px;
+  border-radius: 8px;
+}
